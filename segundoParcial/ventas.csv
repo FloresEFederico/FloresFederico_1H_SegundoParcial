@@ -1,0 +1,11 @@
+id_venta,nombre_archivo,cantidad_afiches,zona_pago,estado_venta,id_cliente
+1000,imagen_23.rar,55,CABA,A COBRAR,100
+1001,afichesNuevos.rar,44,ZONA OESTE,COBRADA,101
+1002,hologramX10.rar,77,CABA,COBRADA,100
+1003,imagenAfiche.rar,68,ZONA OESTE,COBRADA,102
+1004,afichesGraficos.rar,24,ZONA SUR,COBRADA,105
+1005,graphic_Novel.rar,31,ZONA OESTE,A COBRAR,102
+1006,JJ_99.rar,57,CABA,COBRADA,105
+1007,trabajo_Serial44.rar,42,CABA,A COBRAR,101
+1008,CoViD_CuRe2020.rar,32,ZONA SUR,COBRADA,100
+1009,imagen_importante.rar,80,CABA,COBRADA,103
